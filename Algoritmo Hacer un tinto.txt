@@ -1,0 +1,18 @@
+Algoritmo - Hacer un tinto
+Entre 8-10 pasos describir el proceso para hacer un tinto.
+
+Elementos necesarios: Café instantaneo, microondas, taza, cuchara y agua.
+
+Paso 1: Vaciar 200 ml de agua en la taza.
+Paso 2: poner la taza en el microondas.
+Paso 3: Digitar 1:00 minuto y darle en el boton "iniciar"
+Paso 4: Esperar a que caliente el agua.
+Paso 5: Sacar la taza del microondas
+Paso 6: Con una cuchara poner 20 miligramos de café en la taza.
+Paso 7: Revolver con la cuchara el agua y el café de manera circular durante 20 segundos a 2 km por hora.
+Paso 8: Sacar la cuchara...
+Disfrutar!
+
+
+
+
